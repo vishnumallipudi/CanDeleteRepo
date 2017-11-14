@@ -1,4 +1,6 @@
-﻿//Hey I added in Master. Will see who wins
+﻿//hello this will raise conflicts(added in feature1 local)
+
+//Hey I added in Master. Will see who wins
 using System;
 using System.Collections.Generic;
 using System.Linq;
