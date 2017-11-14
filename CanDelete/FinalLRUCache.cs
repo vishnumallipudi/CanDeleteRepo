@@ -1,4 +1,6 @@
-﻿using System;
+﻿//hello this will raise conflicts(added in feature1 local)
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
