@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 //dude see this
+//This must be here . You do anything
 //as I also added this one too....
 namespace CanDelete
 {
